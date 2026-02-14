@@ -1,6 +1,7 @@
 # Full name: Ecem Özge Coşar
 # SID: 24207057
 # Arden-University-Assignment
+# Subject: Mathematics for Data Science
 This repository contains four analytical tasks completed as part of a numerical investigation project. The project combines linear algebra, calculus, probability, and statistical analysis to model and analyse population-related data.
 
 ---
