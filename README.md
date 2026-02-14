@@ -1,3 +1,6 @@
+# Full name
+# SID
+# Subject
 # Arden-University-Assignment
 This repository contains four analytical tasks completed as part of a numerical investigation project. The project combines linear algebra, calculus, probability, and statistical analysis to model and analyse population-related data.
 
